@@ -1,0 +1,24 @@
+boby{
+    background-color: lightcoral;
+    display: flex;
+
+}
+
+.container{
+
+
+display: flex;
+flex-direction: row;
+width: 75px;
+
+}
+
+.container  div{
+
+width: 100px;
+color: black;
+margin: 25px;
+
+
+
+}
